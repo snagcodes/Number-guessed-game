@@ -1,2 +1,2 @@
 my fist project
-# Number-guessed-game
+# Number-guessing-game
